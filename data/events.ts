@@ -1,0 +1,38 @@
+export const EVENTS = [
+  {
+    id: 1,
+    title: "Nexora Summit 2025",
+    date: "Aug 15, 2025",
+    description: "A gathering of the sharpest minds in tech, design, and culture. Two days of immersive sessions and deep connections.",
+    image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+    tag: "Conference",
+    cta: "Register Now",
+  },
+  {
+    id: 2,
+    title: "Build Night: AI Edition",
+    date: "Jul 28, 2025",
+    description: "Hack through the night with fellow builders. Ship something real, something weird, something beautiful.",
+    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80",
+    tag: "Hackathon",
+    cta: "Join Event",
+  },
+  {
+    id: 3,
+    title: "Design Systems Masterclass",
+    date: "Jul 10, 2025",
+    description: "A hands-on workshop exploring the craft of scalable, beautiful design systems used by top-tier teams.",
+    image: "https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&q=80",
+    tag: "Workshop",
+    cta: "Learn More",
+  },
+  {
+    id: 4,
+    title: "Founder Fireside Series",
+    date: "Jun 25, 2025",
+    description: "Intimate conversations with founders who've built from zero to remarkable. Raw stories, real lessons.",
+    image: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&q=80",
+    tag: "Fireside",
+    cta: "Reserve Seat",
+  },
+];
